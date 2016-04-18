@@ -4,6 +4,6 @@ Brutalism in design focuses on 'raw' materialism. I decided to make a Jekyllrb s
 
 Basically, what you get is cleaner starting point. 
 
-The only file you need worry about is `css/brutal.scss` . This replaces the default theme. Should work with any recent version of Jekyllrb.
+The css files replace the default css. Should work with any recent version of Jekyllrb.
 
-<pre>\m/ brutal</pre>
+\m/ brutal
